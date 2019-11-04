@@ -12,6 +12,12 @@
 <body>
     <div class="container">
         <h1 class="display-4 text-center text-info">Découverte de GITHUB</h1><hr>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias est cumque corporis. 
+        Assumenda cum debitis cupiditate vel. A molestias unde totam omnis nisi laboriosam, voluptatum nemo 
+        enim sed facere amet placeat, repudiandae ad! Corrupti quaerat quam eos facilis minus similique velit rem, 
+        ad ipsam dolore magni enim harum odio explicabo perferendis quod quo provident vel assumenda. Voluptas 
+        corrupti quisquam deleniti, esse magni odio vel in obcaecati velit dignissimos debitis aliquid perspiciatis 
+        iusto autem veniam ex eos repudiandae eum maiores natus sun.</p>
     </div>
 </body>
 </html>
