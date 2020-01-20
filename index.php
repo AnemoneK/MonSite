@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
     crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
     <title>MonSite GITHUB</title>
 </head>
 <body>
@@ -21,6 +22,11 @@
         iusto autem veniam ex eos repudiandae eum maiores natus sun.</p>
 
         <h2 class="text-center text-success">Utilisation de GIT / GITHUB</h2>
+        <p class="text-danger text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Nam dolor et praesentium sequi? Dolorem impedit assumenda possimus itaque nesciunt. Fugiat.</p>
+    </div>
+    <div>
+        Ceci est un test
     </div>
 </body>
 </html>
